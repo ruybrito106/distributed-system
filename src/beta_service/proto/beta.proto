@@ -1,0 +1,13 @@
+syntax = "proto2";
+
+package proto;
+
+service BetaService {
+    rpc executeBeta(ExecuteBetaRequest) returns (ExecuteBetaResponse);
+}
+
+message ExecuteBetaRequest {
+    required int32 variable = 1;
+}
+
+message ExecuteBetaResponse {}

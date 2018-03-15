@@ -1,0 +1,13 @@
+syntax = "proto2";
+
+package proto;
+
+service GamaService {
+    rpc executeGama(ExecuteGamaRequest) returns (ExecuteGamaResponse);
+}
+
+message ExecuteGamaRequest {
+    required int32 variable = 1;
+}
+
+message ExecuteGamaResponse {}
