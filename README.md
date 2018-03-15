@@ -1,7 +1,7 @@
 # Distributed System Simple Example
 
 Example of a microsservice system architecture in Golang supported by the following tool:
-* [github.com/go-kit/kit](go-kit)
+* [https://github.com/go-kit/kit](go-kit)
 
 ## Architecture
 
