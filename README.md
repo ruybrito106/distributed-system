@@ -6,6 +6,7 @@ Example of a microservice system architecture in Golang supported by the followi
 ## Architecture
 
 ![alt_text](http://res.cloudinary.com/ufpe/image/upload/v1521074610/mid.png "System Scheme")
+![alt_text](http://res.cloudinary.com/ufpe/image/upload/v1522931704/arq_wtwyt3.png "System 2 Scheme")
 
 ## Usage sample
 
